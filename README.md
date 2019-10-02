@@ -1,2 +1,2 @@
 # MVVM-Practice
-practice mvvm pattern
+practice mvvm pattern.
